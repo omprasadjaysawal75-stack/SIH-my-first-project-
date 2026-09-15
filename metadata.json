@@ -1,0 +1,6 @@
+{
+  "name": "LabelGuard",
+  "description": "Indian Legal Metrology (Packaged Commodities) Rules 2011 compliance verification and inspection portal for packaged goods.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
